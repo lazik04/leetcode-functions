@@ -1,8 +1,4 @@
-package uz.pdp;
-
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Objects;
+package uz.pdp.medium;
 
 public class CheckIfArrayPairsAreDivisibleByK {
     //1497. Check If Array Pairs Are Divisible by k
