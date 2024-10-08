@@ -4,6 +4,7 @@ import java.util.Arrays;
 import javax.swing.plaf.metal.MetalBorders;
 import uz.pdp.easy.PalindromeNumber;
 import uz.pdp.easy.TwoSum;
+import uz.pdp.hard.RegularExpressionMatching;
 import uz.pdp.medium.LongestSubstringWithoutRepeatingCharacters;
 import uz.pdp.medium.StringToInteger;
 
