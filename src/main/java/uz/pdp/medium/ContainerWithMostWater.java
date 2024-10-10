@@ -22,10 +22,10 @@ public class ContainerWithMostWater {
 
             maxArea = Math.max(maxArea, area);
 
-            while(left<right && height[left]<=h) {
+            while( height[left]<=h) {
                 left++;
             }
-            while(left<right && height[right]<=h){
+            while( height[right]<=h){
                 right--;
             }
         }
