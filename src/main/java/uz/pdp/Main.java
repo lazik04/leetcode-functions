@@ -10,5 +10,6 @@ import uz.pdp.medium.StringToInteger;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println(1905 % 10);
     }
 }
