@@ -10,6 +10,5 @@ import uz.pdp.medium.StringToInteger;
 
 public class Main {
     public static void main(String[] args) {
-
     }
 }
