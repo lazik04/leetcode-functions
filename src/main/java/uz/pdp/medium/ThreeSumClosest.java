@@ -16,7 +16,7 @@ import java.util.Arrays;
 //Return the sum of the three integers.
 //
 //You may assume that each input would have exactly one solution.
-public class ЗSumClosest {
+public class ThreeSumClosest {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
         int min = nums[0] + nums[1] + nums[2];
